@@ -1,0 +1,6 @@
+# KREYÒl
+imread() --> fonksyon ki pèmèt nou li foto soti nan yon sous
+VideoCapture() --> fonksyon ki pèmèt nou li videyo soti nan yon sous
+imshow() --> fonksyon ki pèmèt nou afiche foto/videyo 
+waitkey() --> fonksyon ki pèmèt nou bay kantite tan,
+ pou foto afiche ou lè nou klike sou yon bouton pou l kanpe pwosesis la
