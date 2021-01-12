@@ -1,7 +1,7 @@
 import cv2 as cv
 
 # li imaj // read images
-img = cv.imread('resous/foto/posh.jpg')
+foto = cv.imread('resous/foto/posh.jpg')
 
-cv.imshow('posh', img)
+cv.imshow('posh', foto)
 cv. waitKey(0)
